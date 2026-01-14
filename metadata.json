@@ -1,0 +1,7 @@
+{
+  "name": "Executive OPR - Premium Report System",
+  "description": "A sophisticated One Page Report (OPR) management system with executive visual aesthetics, real-time analytics, and Gemini-powered report enhancement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
